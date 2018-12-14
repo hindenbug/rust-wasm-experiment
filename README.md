@@ -2,7 +2,7 @@
 Attempt at learning, web assembly with rust. 
 
 
-## Prequisite
+## Pre-requisite
 
 #### Rust
 

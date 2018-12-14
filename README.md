@@ -40,3 +40,10 @@ npm run debug-build
 
 npm run serve
 ```
+
+
+Resources:
+
+- Tensor Programming's Rust Webassembly series: https://www.youtube.com/watch?v=yEiGVCF99tA
+- https://www.fullstackreact.com/articles/rust-react-and-web-assembly/
+- https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/

@@ -1,4 +1,4 @@
-# rustpdf
+# rustpdf (using wasm)
 Attempt at learning, web assembly with rust. 
 
 

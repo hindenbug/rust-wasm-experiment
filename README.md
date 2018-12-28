@@ -1,4 +1,4 @@
-# rustpdf (using wasm)
+# rust-wasm-experiment
 Attempt at learning, web assembly with rust. 
 
 
